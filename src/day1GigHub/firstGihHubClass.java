@@ -1,6 +1,7 @@
 package day1GigHub;
 
 public class firstGihHubClass {
+    //it was VSC BEFORE NOW IS GIT!
 
     // IF NOT ADD TO GIT ITS NOT IN THE LOCAL ITS ON WORKING STATION!
     public static void main(String[] args) {
