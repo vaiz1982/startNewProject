@@ -19,6 +19,6 @@ public class firstGihHubClass {
         // comiit =let add some miningfull explanation what we change !
         //after commit your staging(cash/index area)will be empty!- its goes to local depository now (white! ) local repo
 
-
+//we create own branch under Alex1 to work on it now! we going to make some changes here!
     }
 }
