@@ -1,6 +1,7 @@
 package day1GigHub;
 
 public class firstGihHubClass {
+    //VCS - VERSION CONTROL SYSTEM!
     //it was VSC BEFORE NOW IS GIT!
 
     // IF NOT ADD TO GIT ITS NOT IN THE LOCAL ITS ON WORKING STATION!
