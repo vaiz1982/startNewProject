@@ -1,6 +1,8 @@
 package day1GigHub;
 
 public class firstGihHubClass {
+
+    // IF NOT ADD TO GIT ITS NOT IN THE LOCAL ITS ON WORKING STATION!
     public static void main(String[] args) {
         // main was deleted!
         // git-add get green!  vcs gone we have git now!
