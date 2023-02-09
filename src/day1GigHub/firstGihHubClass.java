@@ -12,7 +12,7 @@ public class firstGihHubClass {
         //green -we add to the git
 
 
-        System.out.println("Hello GitHub again!");
+        System.out.println("Hey GitHub again!");
         // we add some code
         System.out.println(1+1);
         //we git -commit = getting white - its local repo now! master local repo! Wow!
