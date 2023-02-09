@@ -17,6 +17,7 @@ public class firstGihHubClass {
         System.out.println(1+1);
         //we git -commit = getting white - its local repo now! master local repo! Wow!
         // comiit =let add some miningfull explanation what we change !
+        //after commit your staging(cash/index area)will be empty!- its goes to local depository now (white! ) local repo
 
 
     }
