@@ -15,6 +15,7 @@ public class firstGihHubClass {
         // we add some code
         System.out.println(1+1);
         //we git -commit = getting white - its local repo now! master local repo! Wow!
+        // comiit =let add some miningfull explanation what we change !
 
 
     }
